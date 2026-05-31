@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=ANIKET%20VARE&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20DATA%20SCIENTIST%20%7C%20ML%20ENGINEER%20%7C%20WEB%20DEVELOPER&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=ANIKET%20VARE&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20DATA%20SCIENTIST%20%7C%20ML%20ENGINEER%20%7C%20UI%2FUX%20DESIGNER&descAlignY=58" width="100%" />
 
-# ⚡ Welcome To My Digital Universe ⚡
+# 👋 Hi, I'm Aniket Vare
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Data+Analyst;Data+Scientist;ML+Engineer;Web+Developer;Frontend+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Data+Analyst;Data+Scientist;ML+Engineer;Frontend+Developer;UI/UX+Designer" />
 
 <img src="https://user-images.githubusercontent.com/74038190/216656986-e6d6df0e-c7e0-4d55-a3b9-8cbf057a2d71.gif" width="750" />
 
@@ -12,21 +12,21 @@
 
 ---
 
-# 🧠 About Me
+# 💼 Professional Summary
 
 <img align="right" alt="AI" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Q2eDV4cXB2MXFqMW9laTR0OGQ5M3hqemk4eDduMmd6MWFqYnNkdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif">
 
 ```yaml
 Name: Aniket Vare
-Role: Data Analyst | Data Scientist | ML Engineer | Web Developer | Frontend Developer
+Role: Data Analyst | Data Scientist | ML Engineer | Frontend Developer | UI/UX Designer
 Education: MCA @ SIMMC Pune
-Skills: Python, SQL, Machine Learning, Power BI, React, HTML, CSS, JavaScript
+Skills: Python, SQL, Machine Learning, Power BI, React, HTML, CSS, JavaScript, UI/UX Design, Figma
 Focus: AI, Analytics, Visualization, Automation
 Currently Learning: Advanced ML & Cloud
 Goal: Transform Data into Smart Decisions
 ```
 
-✨ Passionate about building intelligent systems, analytics dashboards & modern web applications
+✨ Passionate about data analytics, machine learning, modern web development, and UI/UX design
 ✨ Love creating modern UI dashboards and intelligent systems
 ✨ Continuously improving coding, analytics & visualization skills
 
@@ -34,7 +34,7 @@ Goal: Transform Data into Smart Decisions
 
 ---
 
-# 🚀 Tech Arsenal
+# 🛠️ Skills & Technologies
 
 <div align="center">
 
@@ -53,7 +53,7 @@ Goal: Transform Data into Smart Decisions
 
 ---
 
-# 🌌 Featured Projects
+# 🚀 Featured Projects
 
 <div align="center">
 
@@ -82,7 +82,7 @@ Goal: Transform Data into Smart Decisions
 
 ---
 
-# 🏆 Achievement Zone
+# 🏆 Achievements
 
 <div align="center">
 
@@ -132,7 +132,7 @@ Goal: Transform Data into Smart Decisions
 
 ---
 
-# 👁️ Visitor Counter
+# 👀 Profile Visitors
 
 <div align="center">
 
@@ -144,11 +144,12 @@ Goal: Transform Data into Smart Decisions
 
 <div align="center">
 
-# 💻 "Code. Analyze. Innovate. Repeat." 💻
+# 🚀 Building Smart Solutions with Data & Technology
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer" width="100%" />
 
 </div>
 
 ---
+
 
