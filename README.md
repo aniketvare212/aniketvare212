@@ -1,83 +1,70 @@
 <div align="center">
 
-# ✨ Hey, I'm Aniket Vare ✨
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=ANIKET%20VARE&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20DATA%20SCIENTIST%20%7C%20ML%20ENGINEER%20%7C%20WEB%20DEVELOPER&descAlignY=58" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Aspiring+Data+Scientist;Python+Developer;Machine+Learning+Enthusiast;Power+BI+Learner;Frontend+Developer+Intern;Always+Learning+New+Things+🚀" />
+# ⚡ Welcome To My Digital Universe ⚡
 
-<img src="https://user-images.githubusercontent.com/74038190/212750977-6dbc7b1b-0f5d-4d9c-b7d9-4d6db3b0dacf.gif" width="700" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Data+Analyst;Data+Scientist;ML+Engineer;Web+Developer;Frontend+Developer" />
+
+<img src="https://user-images.githubusercontent.com/74038190/216656986-e6d6df0e-c7e0-4d55-a3b9-8cbf057a2d71.gif" width="750" />
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🧠 About Me
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="AI" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Q2eDV4cXB2MXFqMW9laTR0OGQ5M3hqemk4eDduMmd6MWFqYnNkdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif">
 
-🎓 MCA Student at SIMMC Pune
-💻 Frontend Developer Intern
-📊 Aspiring Data Analyst & Data Scientist
-🐍 Python Enthusiast
-🤖 Exploring Machine Learning & AI
-📈 Passionate about Data Visualization & Business Intelligence
-🚀 Building Real-world Projects using Streamlit & ML
-🌱 Currently learning Advanced Analytics & Cloud Technologies
+```yaml
+Name: Aniket Vare
+Role: Data Analyst | Data Scientist | ML Engineer | Web Developer | Frontend Developer
+Education: MCA @ SIMMC Pune
+Skills: Python, SQL, Machine Learning, Power BI, React, HTML, CSS, JavaScript
+Focus: AI, Analytics, Visualization, Automation
+Currently Learning: Advanced ML & Cloud
+Goal: Transform Data into Smart Decisions
+```
 
-<br><br>
+✨ Passionate about building intelligent systems, analytics dashboards & modern web applications
+✨ Love creating modern UI dashboards and intelligent systems
+✨ Continuously improving coding, analytics & visualization skills
+
+<br><br><br>
 
 ---
 
-# ⚡ Tech Stack
+# 🚀 Tech Arsenal
 
 <div align="center">
 
-### 👨‍💻 Languages
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,bootstrap,tailwind,mysql,git,github,vscode" />
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
+<br><br>
 
-### 🌐 Frontend Development
-
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
-
-### 📊 Data Analytics & Machine Learning
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Analytics-00C7B7?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-
-### 🗄️ Database & Tools
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# 🌌 Featured Projects
 
-## ❤️ Heart Disease Prediction System
+<div align="center">
 
-✔️ Machine Learning based healthcare prediction system
-✔️ Built using Python, Scikit-Learn & Streamlit
-✔️ Predicts heart disease risk from medical data
+| 🚀 Project                   | 💡 Description                                        |
+| ---------------------------- | ----------------------------------------------------- |
+| ❤️ Heart Disease Prediction  | ML healthcare prediction app using Python & Streamlit |
+| 📉 Customer Churn Prediction | Predict customer retention using Machine Learning     |
+| 💳 Fraud Detection System    | Detect fraudulent transactions using analytics        |
+| 📊 Power BI Dashboards       | Interactive business intelligence dashboards          |
 
----
-
-## 📉 Telco Customer Churn Prediction
-
-✔️ Customer retention & churn analysis project
-✔️ Includes EDA, preprocessing & ML prediction
-✔️ Interactive Streamlit dashboard
-
----
-
-## 💳 Fraud Detection Case Study
-
-✔️ Fraud transaction analysis using large datasets
-✔️ Data cleaning, preprocessing & anomaly detection
-✔️ Python & Machine Learning implementation
+</div>
 
 ---
 
@@ -85,31 +72,41 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aniketvare212&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aniketvare212&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketvare212&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketvare212&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketvare212&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aniketvare212&theme=algolia&no-frame=true&margin-w=10" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketvare212&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 🏆 Achievement Zone
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketvare212&theme=tokyo-night&hide_border=true" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=aniketvare212&theme=radical&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketvare212&theme=react-dark&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
@@ -120,22 +117,26 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/aniket-vare">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:vareaniket330@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/aniketvare212">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-# 👀 Profile Views
+# 👁️ Visitor Counter
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=aniketvare212&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=aniketvare212&style=for-the-badge&color=blueviolet" />
 
 </div>
 
@@ -143,9 +144,9 @@
 
 <div align="center">
 
-## 💡 “Turning Data into Insights & Ideas into Reality”
+# 💻 "Code. Analyze. Innovate. Repeat." 💻
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer" width="100%" />
 
 </div>
 
