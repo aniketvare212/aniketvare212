@@ -1,139 +1,153 @@
-# Hi there, I'm Aniket Vare 👋
-
 <div align="center">
 
-## 🚀 Aspiring Data Analyst | Data Scientist | Python Developer
+# ✨ Hey, I'm Aniket Vare ✨
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=MCA+Student;Data+Analytics+Enthusiast;Machine+Learning+Explorer;Frontend+Developer+Intern;Power+BI+Learner;Python+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Aspiring+Data+Scientist;Python+Developer;Machine+Learning+Enthusiast;Power+BI+Learner;Frontend+Developer+Intern;Always+Learning+New+Things+🚀" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212750977-6dbc7b1b-0f5d-4d9c-b7d9-4d6db3b0dacf.gif" width="700" />
 
 </div>
 
 ---
 
-## 🌟 About Me
+# 💫 About Me
 
-🎓 Pursuing MCA at SIMMC Pune
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+🎓 MCA Student at SIMMC Pune
 💻 Frontend Developer Intern
-📊 Passionate about Data Analytics & Machine Learning
-🐍 Skilled in Python, SQL, Power BI & Data Visualization
-📈 Interested in AI, Business Intelligence & Real-world Data Problems
-🚀 Continuously learning and building projects
+📊 Aspiring Data Analyst & Data Scientist
+🐍 Python Enthusiast
+🤖 Exploring Machine Learning & AI
+📈 Passionate about Data Visualization & Business Intelligence
+🚀 Building Real-world Projects using Streamlit & ML
+🌱 Currently learning Advanced Analytics & Cloud Technologies
+
+<br><br>
 
 ---
 
-## 🛠️ Tech Stack
+# ⚡ Tech Stack
 
-### 👨‍💻 Programming Languages
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
-</p>
+### 👨‍💻 Languages
 
-### 📊 Data Analytics & ML
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
 
 ### 🌐 Frontend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
+
+### 📊 Data Analytics & Machine Learning
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
 ### 🗄️ Database & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-### ❤️ Heart Disease Prediction System
-
-* Machine Learning based prediction system
-* Built using Python, Scikit-Learn & Streamlit
-* Performs prediction based on medical attributes
-
-### 📉 Telco Customer Churn Prediction
-
-* ML-powered customer churn analysis
-* Includes EDA, preprocessing & prediction
-* Streamlit interactive web application
-
-### 💳 Fraud Detection Case Study
-
-* Fraud transaction analysis on large dataset
-* Data preprocessing & anomaly detection
-* Built using Python & Machine Learning concepts
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=tokyonight\&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&theme=tokyonight\&hide_border=false\&layout=compact)
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🚀 Featured Projects
+
+## ❤️ Heart Disease Prediction System
+
+✔️ Machine Learning based healthcare prediction system
+✔️ Built using Python, Scikit-Learn & Streamlit
+✔️ Predicts heart disease risk from medical data
+
+---
+
+## 📉 Telco Customer Churn Prediction
+
+✔️ Customer retention & churn analysis project
+✔️ Includes EDA, preprocessing & ML prediction
+✔️ Interactive Streamlit dashboard
+
+---
+
+## 💳 Fraud Detection Case Study
+
+✔️ Fraud transaction analysis using large datasets
+✔️ Data cleaning, preprocessing & anomaly detection
+✔️ Python & Machine Learning implementation
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aniketvare212&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketvare212&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketvare212&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+# 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aniketvare212&theme=algolia&no-frame=true&margin-w=10" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketvare212&theme=tokyo-night&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
 <a href="https://www.linkedin.com/in/aniket-vare">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:vareaniket330@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-</p>
-
----
-
-## ✨ Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
-<div align="center">
-
-### ⭐ "Turning Data into Insights & Ideas into Reality"
 
 </div>
 
 ---
 
-# 📌 Setup Instructions
+# 👀 Profile Views
 
-1. Create a repository with the exact same name as your GitHub username.
-2. Add a `README.md` file.
-3. Copy and paste this content.
-4. Replace all `YOUR_USERNAME` with your actual GitHub username.
-5. Commit changes and your profile will appear automatically.
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=aniketvare212&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 💡 “Turning Data into Insights & Ideas into Reality”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=120&section=footer" />
+
+</div>
+
+---
+
